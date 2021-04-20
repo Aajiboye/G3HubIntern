@@ -1,0 +1,43 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background: #ffccd5;
+}
+
+.container {
+  width: 960px;
+  margin: 20px auto;
+}
+
+.main-area {
+  background: #fff;
+
+}
+.nav {
+  height: 60px;
+  margin-bottom: 20px;
+}
+
+.content {
+  height: 760px;
+  margin-bottom: 20px;
+
+}
+
+.footer {
+  height: 300px
+}
+
+.right-content {
+  width: 60%;
+  height: 700px;
+
+}
+
+.left-content {
+  width: 40%;
+  height: 700px;
+
+}
