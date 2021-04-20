@@ -33,11 +33,11 @@ body {
 .right-content {
   width: 60%;
   height: 700px;
-
+  float: left;
 }
 
 .left-content {
   width: 40%;
   height: 700px;
-
+  float: left;
 }
